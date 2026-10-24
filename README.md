@@ -1,4 +1,6 @@
 # Week 1 Checkpoint
+Live Site:
+https://shanteshannon-cdxadmy.github.io/week-1-checkpoint/
 
 ## My setup
 - Operating system: Windows 
